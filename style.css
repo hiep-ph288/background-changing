@@ -1,0 +1,10 @@
+.change {
+  display: block;
+  padding: 15px 40px;
+  border-radius: 10px;
+  border: 0;
+  color: #fff;
+  margin: 50px auto;
+  background-color: #3d6ef7;
+  cursor: pointer;
+}
